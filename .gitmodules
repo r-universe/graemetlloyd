@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Claddis"]
+	path = Claddis
+	url = https://github.com/graemetlloyd/claddis
+	shallow = true
+	registered = true
+[submodule "strap"]
+	path = strap
+	url = https://github.com/graemetlloyd/strap
+	shallow = true
+	registered = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "Claddis",
+    "oncran": true
+  },
+  {
+    "package": "strap",
+    "oncran": true
+  }
+]
